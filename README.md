@@ -1,2 +1,2 @@
-# introduction-to-matlab
+# Introduction to matlab
 Some examples in matlab about plotting data and preprocessing images.
